@@ -6,7 +6,7 @@ Hi there, I'm Kavi 👋
 I'm a Software Engineer (Full-Stack) 💻, and a Tech Enthusiast 🚀!
 </h2>
 
-I'm passionate about software development, particwebsites creating websites, building scalable backends, crafting cloud solutions, and developing AI applications. I thrive on connecting with like-minded individuals and continuously expanding my knowledge in the field. My enthusiasm lies in the art of problem-solving and uncovering hidden insights, constantly pushing the boundaries of what's possible.
+I'm passionate about software development, creating websites, building scalable backends, crafting cloud solutions, and developing AI applications. I thrive on connecting with like-minded individuals and continuously expanding my knowledge in the field. My enthusiasm lies in the art of problem-solving and uncovering hidden insights, constantly pushing the boundaries of what's possible.
 
 ### 🤝 Connect with me:
 
