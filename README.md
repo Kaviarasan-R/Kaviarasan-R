@@ -50,12 +50,16 @@ I'm passionate about software development, creating websites, building scalable 
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=SQLite&color=003B57)
 ![](https://img.shields.io/badge/Code-MongoDb-informational?style=flat&logo=mongodb&color=green)
 
-<!--![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=spring-boot&color=green) 
-![](https://img.shields.io/badge/Tools-Cypress-informational?style=flat&logo=kafka&color=orange)
-![](https://img.shields.io/badge/Tools-Jest-informational?style=flat&logo=kafka&color=orange)
-![](https://img.shields.io/badge/Tools-Microservices-informational?style=flat&logo=kafka&color=orange)
-![](https://img.shields.io/badge/Tools-Kafka-informational?style=flat&logo=kafka&color=orange)
-![](https://img.shields.io/badge/Tools-Redis-informational?style=flat&logo=kafka&color=orange)
+<!--
+![](https://img.shields.io/badge/Tech-DataScience-informational?style=flat&logo=spring-boot&color=green) 
+![](https://img.shields.io/badge/Tech-MachineLearning-informational?style=flat&logo=spring-boot&color=green) 
+![](https://img.shields.io/badge/Tech-DeepLearning-informational?style=flat&logo=spring-boot&color=green) 
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=spring-boot&color=green) 
+![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=spring-boot&color=green) 
+![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=kafka&color=orange)
+![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=kafka&color=orange)
+![](https://img.shields.io/badge/Microservice-Kafka-informational?style=flat&logo=kafka&color=orange)
+![](https://img.shields.io/badge/Microservice-Redis-informational?style=flat&logo=kafka&color=orange)
 -->
 
 </br>
