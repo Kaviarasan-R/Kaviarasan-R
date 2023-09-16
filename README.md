@@ -85,7 +85,5 @@ I'm passionate about software development, creating websites, building scalable 
 
 ## 📈 GitHub Stats 
 
-[![Kavi's github stats](https://github-readme-stats.vercel.app/api?username=Kaviarasan-R)](https://github.com/Kaviarasan-R)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaviarasan-R&layout=compact)](https://github.com/Kaviarasan-R)
+[![Kavi's github stats](https://github-readme-stats.vercel.app/api?username=Kaviarasan-R)](https://github.com/Kaviarasan-R) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaviarasan-R&layout=compact)](https://github.com/Kaviarasan-R)
 
