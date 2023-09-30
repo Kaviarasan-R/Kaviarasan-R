@@ -17,15 +17,13 @@ I'm passionate about software development, creating websites, building scalable 
 ## 🔭 I'm currently working on
 
 - Improving Shopify x React x Nest Boilerplate **(V1.2.0)**
-- Scalable Backend Architecture Using NestJS & Spring Boot Framework
-- My CSS Skill
+- Building Scalable E-commerce & Booking system Using React, React Native, NestJS, Spring Boot & Microservices.
 
 ## 🌱 I'm currently learning
 
 - Shopify App Development
 - AWS Developer Associate Certification
 - Data Structures & Algorithms In Java
-- Cypress Web Automation Framework
 - Spring Boot Framework
 - System Design
 
