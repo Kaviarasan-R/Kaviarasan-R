@@ -10,8 +10,8 @@ I'm passionate about software development, creating websites, building scalable 
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/kaviarasan-r/">LinkedIn</a>
-<a href="https://instagram.com/kavi._.r26">Instagram</a>
+- <a href="https://www.linkedin.com/in/kaviarasan-r/">LinkedIn</a>
+- <a href="https://instagram.com/kavi._.r26">Instagram</a>
 
 
 ## 🔭 I'm currently working on
