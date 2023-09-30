@@ -10,14 +10,9 @@ I'm passionate about software development, creating websites, building scalable 
 
 ### 🤝 Connect with me:
 
-<blockquote>
-  <a href="https://www.linkedin.com/in/kaviarasan-r/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-  <a href="https://instagram.com/kavi._.r26"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-  <br />
-  <br />
-  
-  💬 If you have any question/feedback, please do not hesitate to reach out to me!
-</blockquote>
+<a href="https://www.linkedin.com/in/kaviarasan-r/">LinkedIn</a>
+<a href="https://instagram.com/kavi._.r26">Instagram</a>
+
 
 ## 🔭 I'm currently working on
 
